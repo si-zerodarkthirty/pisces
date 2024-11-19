@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
-    "firebase": "^7.6.0",
+    "firebase": "^10.9.0",
     "quasar": "^1.0.0",
     "vue2-filters": "^0.9.1",
     "vuefire": "^2.2.0"
